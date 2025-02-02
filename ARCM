@@ -1,7 +1,4 @@
-# digital_portraits
-# ryq
 # 针对不同的数据集，注意分类数量、训练函数、训练轮次的超参数设定
-
 # 导入
 import shutil
 import pandas as pd
